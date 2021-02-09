@@ -1,6 +1,17 @@
-#myHeader {
-  background-color: lightblue;
-  color: red;
-  padding: 40px;
-  text-align: center;
+<body>
+<style>
+
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
 }
+
+#myHeaderÂ {
+Â  background-color:Â lightblue;
+Â  color: red;
+Â  padding:Â 40px;
+Â  text-align:Â center;
+}
+</style>
+</body>
