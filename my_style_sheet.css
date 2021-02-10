@@ -7,7 +7,7 @@ body{ background-color: #F0EC78;}
   text align: center:}
 
 #java-heading {text align: center;
-text-color: rgb; 244,0,0; }
+}
 
 #about-me-body {background-color:#F0F8FF;}
 
@@ -17,3 +17,4 @@ text-color: rgb; 244,0,0; }
               margin: right: 50px;
               margin : bottom 1px;
           }
+#java-heading {text-color: rgb; 244,0,0; }
