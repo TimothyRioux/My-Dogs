@@ -1,14 +1,1 @@
-#lilly_chloe{ 
-          {width: 100px;
-              float: right;
-              margin: right: 50px;
-              margin : bottom 1px;
-          }
-
-#myHeader {
-  background-color: lightblue;
-  color: red;
-  padding: 40px;
-  text-align: center;
-}
-
+body{ background-color: #f0ec78;}
