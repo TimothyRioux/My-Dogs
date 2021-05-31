@@ -4,16 +4,16 @@ body{ background-color: #1ac6ff;}
               
 #navtable {width  200px; 
   height 50%;  
-  text align: center:}
+  text-align: center:}
 #p1 {font-size: 40px;
 }
-#java-heading {text align: center;
+#java-heading {text-align: center;
 }
 
 #about-me-body {background-color:#1ac6ff;}
 
-#lilly_and_chloe 
-          {width: 100px;
+#lilly_and_chloe{ 
+          
               float: right;
               margin: right: 50px;
               margin : bottom 1px;
