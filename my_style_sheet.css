@@ -3,7 +3,9 @@ body{ background-color: #1ac6ff;{
 #rioux_my_pic{float: right;
   margin: 50px;
   }
-              
+  #java-heading{float: center;
+  }
+            
 #nav-table{ width: 800px;
   height: 100px;  
   }
