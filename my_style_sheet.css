@@ -1,11 +1,12 @@
 body{ background-color: #1ac6ff;}
 
-#nav-table {width 800px;}
+#navtable {width 800px;}
               
-#nav-td {width  200px; 
+#navtable {width  200px; 
   height 50%;  
   text align: center:}
-
+#p1 {font-size: 40px;
+}
 #java-heading {text align: center;
 }
 
