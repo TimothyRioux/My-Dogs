@@ -1,8 +1,9 @@
-body{ background-color: #1ac6ff;}
+body{ background-color: #1ac6ff;{
 
-#navtable {width 800px;}
+#my_pic{float: right;
+  }
               
-#navtable {width  200px; 
+#navtable { width 800px;
   height 50%;  
   text-align: center:}
 #p1 {font-size: 40px;
