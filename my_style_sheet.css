@@ -1,6 +1,6 @@
 body{ background-color: #1ac6ff;{
 
-#my_pic{alt="rioux_my_pic" class="center;
+#my_pic{float: right: 50px;
   }
               
 #nav-table{ width 800px;
@@ -15,8 +15,7 @@ body{ background-color: #1ac6ff;{
 
 #lilly_and_chloe{ 
           
-              float: right;
-              margin: right: 70px;
+              float: right: 80px;
              
           }
 #java-heading {text-color: rgb; 244,0,0; }
