@@ -1,10 +1,10 @@
 body{ background-color: #1ac6ff;{
 
-#my_pic{: right;
+#my_pic{right 50px;
   }
               
-#home { width 25px;
-  height 10%;  
+#nav-table{ width 800px;
+  height 20%;  
   }
 #p1 {font-size: 40px;
 }
