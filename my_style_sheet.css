@@ -1,12 +1,13 @@
 body{ background-color: #1ac6ff;{
 
-#rioux_my_pic{float: right: 50px;
+#rioux_my_pic{float: right;
+  margin: 50px;
   }
               
 #nav-table{ width 800px;
   height 10px;  
   }
-#p1 {font-size: 40px;
+#p {font-size: 40px;
 }
 #java-heading {text-align: center;
 }
@@ -15,7 +16,8 @@ body{ background-color: #1ac6ff;{
 
 #lilly_and_chloe{ 
           
-              float: right: 80px;
+              float: right;
+  margin: 80px;
              
           }
 #java-heading {text-color: rgb; 244,0,0; }
