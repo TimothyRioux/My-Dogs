@@ -4,27 +4,25 @@ body{ background-color: #1ac6ff;{
   margin-left: 100px;
   }
   #java-heading{float: center;
-  {
+  }
             
   
   #F-4_Phantom"{
-  margin-top: 25%;
-    height: 600px;
-    width: 50%
-    
-  {
+  margin-top: 50%;
+    height: 300px;
+    width: 100%}
   
   
 #nav-table{width: 1000px;
   height: 50px;  
   }
-#p {font-size: 40px;
+.p {font-size: 40px;
 }
 #java-heading {text-align: center;
 }
 
 #about-me-body {background-color:#1ac6ff;}
-
+  .h1 "about-me-heading"{text-align:center;}
 #lilly_and_chloe{ 
           
               float: right;
