@@ -10,7 +10,7 @@ body{ background-color: #1ac6ff;{
     height: 300px;
     width: 100%}
  
-  #div {
+  div {
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
@@ -20,6 +20,13 @@ body{ background-color: #1ac6ff;{
   
 #nav-table{width: 800px;
   height: 50px;  
+  table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
   }
 p {font-size: 40px;
 }
