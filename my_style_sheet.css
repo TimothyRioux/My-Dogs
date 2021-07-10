@@ -14,11 +14,16 @@ body{ background-color: #1ac6ff;{
 #nav-table{width: 1000px;
   height: 50px;  
   }
-.p {font-size: 40px;
+p {font-size: 40px;
 }
 
 #about-me-body {background-color:#1ac6ff;}
   .h1 "about-me-heading"{text-align:center;}
 
-  
+     p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  }
 #java-heading {text-color: rgb; 244,0,0; }
