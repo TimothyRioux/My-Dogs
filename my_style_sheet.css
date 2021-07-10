@@ -9,9 +9,16 @@ body{ background-color: #1ac6ff;{
   margin-top: 50%;
     height: 300px;
     width: 100%}
+ 
+  #div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
   
-  
-#nav-table{width: 1000px;
+#nav-table{width: 800px;
   height: 50px;  
   }
 p {font-size: 40px;
