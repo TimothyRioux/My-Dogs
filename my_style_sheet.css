@@ -18,10 +18,10 @@ body{ background-color: #1ac6ff;{
 }
 
   
-#nav-table{width: 800px;
+#nav-table{width: 500px;
   height: 50px;  
-  table {
-  width: 100%;
+   width: 50%;
+    
 }
 p {font-size: 40px;
 }
