@@ -11,19 +11,9 @@ body{ background-color: #1ac6ff;{
                margin-top: 25px;
   }
   
-  #F-4_Phantom"{
-  margin-top: 50%;
-    height: 200px;
-    width: 50%}
- 
-  div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
-
   
+ 
+  div{  
 #nav-table{width: 500px;
   height: 50px;  
    width: 50%;
@@ -34,7 +24,11 @@ p {font-size: 40px;
 
 #about-me-body {background-color:#1ac6ff;}
   .h1 "about-me-heading"{text-align:center;}
-
+width: 500px;
+  padding: 25px;
+  border: 5px solid black;
+  margin:100px;
+}
      p {
   margin-top: 100px;
   margin-bottom: 100px;
