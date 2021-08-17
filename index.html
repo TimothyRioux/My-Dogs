@@ -22,7 +22,21 @@
        
 <img src="basic_pic.png"align =clear="right""hspace="25" vspace="25"/>
       
+  <canvas id="canvas" width="120" height="120"></canvas>
+
+<script>
+
+  ( () => {
+
+    let canvas = document.getElementById("canvas");
+    let context = canvas.getContext("2d");
+
+    context.fillStyle = "lightblue";
+    context.fillRect(10, 10, 100, 100);
+    
+  } )();
   
+</script>
         
         <table="nav-table" align="center"hspace ="350"/>
      <tr>
