@@ -11,11 +11,9 @@ body{ background-color: #1ac6ff;{
                margin-top: 25px;
   }
 
- img {#myBanner.jpg
-  position: absolute;
-  left: 50%;
-  top: 0px;
-  z-index: -1;
+ #myBanner.jpg  {img src "myBanner.jpg" 
+  position: center;
+  
 }
 
  
