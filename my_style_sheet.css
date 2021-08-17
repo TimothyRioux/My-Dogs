@@ -10,8 +10,15 @@ body{ background-color: #1ac6ff;{
               font-size: 100px;
                margin-top: 25px;
   }
-  #myBanner.jpg {align=center
- }
+
+ img #myBanner.jpg {#myBanner.jpg
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  z-index: -1;
+}
+
+ 
   
  
   div{  
@@ -19,8 +26,6 @@ body{ background-color: #1ac6ff;{
   height: 50px;  
    width: 50%;
  margin: 40px 400px 30px 400px;   
-}
-p {font-size: 40px;
 }
 
 #about-me-body {background-color:#1ac6ff;}
