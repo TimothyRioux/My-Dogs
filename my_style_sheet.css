@@ -3,7 +3,16 @@ body{ background-color: #1ac6ff;{
  
 
 }
-
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+ 
+ 
+ 
+ 
   #java-heading{float: center;
   }
             #index My Java Scripts Web Page{ align=center;
@@ -13,14 +22,7 @@ body{ background-color: #1ac6ff;{
 #myBanner <img src="myBanner.jpg" float: center>
 }
 
-<canvas id="mycanvas" width="400" height="250">
-</canvas>
 
-<script>
-  // see JavaScript code in Live Editor
-<h2><a href="javascripts.html"><img src ="Rioux_rain_png.png">"https://www.khanacademy.org/computer-programming/rioux_project-make-it-rain/5130695242366976"></a></h2>
-                
-</script>
   
  
   div{  
