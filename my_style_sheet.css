@@ -10,10 +10,7 @@ body{ background-color: #1ac6ff;{
               font-size: 100px;
                margin-top: 25px;
   }
-
- #myBanner.jpg  {img src "myBanner.jpg" 
-  position: center;
-  
+<img src="myBanner.jpg" class="centeredImage" alt="myBanner" height="20" width="100">
 }
 
  
